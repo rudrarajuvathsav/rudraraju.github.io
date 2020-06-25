@@ -8547,7 +8547,11 @@ textarea.form-control {
       height: 450px;
     }
     .download-btn{
-      padding: 20px
+      border-radius: 40px;
+      background-color: royalblue;
+    }
+    .download-btn:hover{
+      background-color: blue;
     }
     .close {
       position: absolute;
@@ -8557,7 +8561,7 @@ textarea.form-control {
       color: white;
       transform: rotate(45deg);
       cursor: pointer;
-      &:hover {
-        color: white;
-      }
+    }
+    .close:hover{
+      background-color: black;
     }
