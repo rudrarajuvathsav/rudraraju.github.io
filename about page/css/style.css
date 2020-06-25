@@ -8549,6 +8549,7 @@ textarea.form-control {
     .download-btn{
       border-radius: 40px;
       background-color: royalblue;
+      margin-top: 50px;
     }
     .download-btn:hover{
       background-color: blue;
