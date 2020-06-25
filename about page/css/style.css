@@ -8552,10 +8552,10 @@ textarea.form-control {
       border-width: 4px;
       border-color: royalblue;
       border-radius: 30px;
-      background-color: whitesmoke;
+      background-color: white;
       margin-top: 30px;
       font-family: 'Courier New', Courier, monospace;
-      font-size: 15px;
+      font-size: 20px;
       
     }
     .download-btn:hover {
