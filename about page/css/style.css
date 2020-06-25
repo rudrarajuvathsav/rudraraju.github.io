@@ -8546,12 +8546,12 @@ textarea.form-control {
       width: 600px;
       height: 450px;
     }
-    .download-btn {
+    button {
       border-radius: 40px;
       background-color: royalblue;
       margin-top: 50px;
     }
-    .download-btn:hover {
+    button:hover {
       background-color: blue;
     }
     .close {
