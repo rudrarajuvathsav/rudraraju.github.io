@@ -8540,19 +8540,26 @@ textarea.form-control {
       padding: 20px;
       position: relative;
       border-radius: 4px;
-      margin-right: 400px;
+      margin-right: 350px;
     }
     .pics{
       width: 600px;
       height: 450px;
     }
-    button {
-      border-radius: 40px;
-      background-color: royalblue;
-      margin-top: 50px;
+    .download-btn {
+      width: 200px;
+      padding: 10px;
+      border-width: 4px;
+      border-color: royalblue;
+      border-radius: 30px;
+      background-color: whitesmoke;
+      margin-top: 30px;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 15px;
+      
     }
-    button:hover {
-      background-color: blue;
+    .download-btn:hover {
+      background-color: royalblue;
     }
     .close {
       position: absolute;
@@ -8564,5 +8571,5 @@ textarea.form-control {
       cursor: pointer;
     }
     .close:hover{
-      background-color: black;
+      color: black;
     }
