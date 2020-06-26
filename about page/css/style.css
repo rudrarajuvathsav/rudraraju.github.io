@@ -8543,28 +8543,28 @@ textarea.form-control {
       margin-right: 350px;
     }
     .pics{
-      width: 600px;
+      width: 700px;
       height: 450px;
     }
     .download-btn {
-      width: 200px;
-      padding: 10px;
-      border-width: 4px;
-      border-color: royalblue;
-      border-radius: 30px;
+      margin-top: 20px;
+      width: 250px;
+      border: 2px solid royalblue;
       background-color: white;
-      margin-top: 30px;
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 20px;
-      
+      border-radius: 40px;
+      font-family: monospace;
+      font-size: 25px;
+      cursor: pointer;
     }
-    .download-btn:hover {
+    .download-btn:hover{
       background-color: royalblue;
+      transition: all 1s;
     }
+
     .close {
       position: absolute;
       top: 0;
-      right: 10px;
+      right: -10%;
       font-size: 42px;
       color: white;
       transform: rotate(45deg);
