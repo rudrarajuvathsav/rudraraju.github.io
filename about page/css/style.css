@@ -8545,6 +8545,7 @@ textarea.form-control {
     .pics{
       width: 700px;
       height: 450px;
+      border-radius: 20px;
     }
     .download-btn {
       margin-top: 20px;
@@ -8572,4 +8573,10 @@ textarea.form-control {
     }
     .close:hover{
       color: black;
+    }
+
+    .dpkrishna{
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
     }
